@@ -1,3 +1,8 @@
+//Sir i'm working on it .. although it is incomplete for now but i've done functionality to fetch and store data in database but now i'm trying to make big
+//application lie whatsapp so it will take some time .. hope you will consider this app as in progress not incomplete assignment
+// And A very very thankfull to you all teachers who made me elibible to make this beautiful web application
+
+
 let myName
 let profilepic
 let currentUserKey
